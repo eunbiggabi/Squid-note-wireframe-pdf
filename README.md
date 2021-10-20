@@ -1,4 +1,4 @@
-# Flex box2
+# Flex box practice 2
 
 ### HTML & CSS
 
